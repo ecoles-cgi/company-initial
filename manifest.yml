@@ -10,3 +10,4 @@ applications:
   services:
     - db-cdb-company
     - logs-pt-company
+    - config-store
