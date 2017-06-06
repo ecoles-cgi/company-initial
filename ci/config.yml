@@ -26,3 +26,4 @@ cf_dev_space: edgar.coles@cgi.com
 cf_dev_hostname: company-ecoles
 cf_dev_domain: cfapps.io
 cf_dev_manifest: app/manifest.yml
+
